@@ -1,12 +1,15 @@
 # 02_Data_Analysis_&_Visualization_with_Pandas
 
-This project focuses on analysing business data for discount recommendations with Python and Seaborn. 
+This project centers around the analysis of business data using Python, with a specific focus on data visualization utilizing the Seaborn library.
 
-There are 4 csv-files, which contain the purchase information of an online shop. Most products have been sold with discounts, so the question is whether or not the company should continue to give discounts. 
+We work as a team of three, tasked with investigating the purchase information of the e-commerce tech company 'Eniac' and determining whether it would be beneficial to offer product discounts.
 
-The challenges of the project were to clean the data, analyze it and visualize the insights.
-data cleaning & quality:
-Transform a messay dataset into a clean & trustable source ready for insight-extraction
+The primary challenge of this project is situated in transforming a messy dataset into a clean and reliable source, suitable for extracting meaningful insights. The raw data is currently corrupted, requiring careful data cleansing and preparation.
 
-Data Visualization_with_Pandas
-using python to create professional looking plots that convey a clea message
+## Code
+
+
+## Results
+
+---
+Raw file [Download](https://drive.google.com/drive/folders/1mHBDnFvMOgxnZIVSAw1LyT8b2-qbzB8T)
