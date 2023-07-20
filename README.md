@@ -1,4 +1,4 @@
-# 02_Data_Analysis_&_Visualization_with_Pandas
+# 02_Data_Analysis_Discount_Pandas
 
 This project centers around the analysis of business data using Python, with focus on data visualization utilizing the Seaborn library.
 
